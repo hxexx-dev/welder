@@ -1,0 +1,3 @@
+{
+      "name": "welder", "tree": { "$className": "DataModel", "Workspace": { "Welder": { "$className": "Model", "$path": "welder" } } }
+}
